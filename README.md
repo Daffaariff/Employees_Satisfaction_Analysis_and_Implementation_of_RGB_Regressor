@@ -36,7 +36,7 @@ This project involves analyzing employee satisfaction data to understand various
 ## Files
 - **employee_satisfaction_analysis.ipynb**: Jupyter Notebook containing the analysis code.
 - **README.md**: This file, providing an overview of the project.
-- The dataset used in this analysis can be found on [Kaggle]([https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis]).
+- The dataset used in this analysis can be found on [Kaggle](https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis).
 
 ## Instructions
 1. Clone the repository.
